@@ -1,5 +1,7 @@
 # MonoStereoFusion
 
+<img width="1200" src="https://github.com/YuhuaXu/MonoStereoFusion/blob/main/pipeline.png"/></div>
+
 This repository contains the code and dataset for our paper *Yuhua Xu, Xiaoli Yang, Yushan Yu, Wei Jia, Zhaobi Chu, Yulan Guo. Depth Estimation by Combining Binocular Stereo and Monocular Structured-Light, CVPR 2022*.
 
 ## Requirements
